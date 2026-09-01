@@ -6,3 +6,4 @@ ddgs
 openweather
 fastembed
 chromadb
+sqlalchemy
