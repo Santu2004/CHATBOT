@@ -45,7 +45,7 @@ if "messages" not in st.session_state:
 # Page
 # =========================
 
-st.title("🤖 My Agent Of SANTUUU")
+st.title("🤖 CHATBOT OF SANTUUU")
 
 st.caption(
     "Agno + Groq + Tools + Memory + PDF RAG"
