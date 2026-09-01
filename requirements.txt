@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+agno
+groq
+ddgs
+openweather
+fastembed
+chromadb
